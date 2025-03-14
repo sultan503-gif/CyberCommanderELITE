@@ -1,1 +1,6 @@
-# requirements.txt - المكتبات المطلوبة
+requests
+beautifulsoup4
+cryptography
+transformers
+torch
+python-nmap
